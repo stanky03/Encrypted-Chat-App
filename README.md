@@ -3,7 +3,7 @@ Basic Encrypted Chat App Implementation
 
 # Overview
 
-This project is a command-line based encrypted chat application written in Python. It allows two users to communicate securely using symmetric AES encryption, with asymmetric RSA/ECC key exchange and digital signatures. The system also demonstrates common attack simulations such as Man-in-the-Middle (MITM) and replay attacks, along with basic defenses like timestamp verification. The project was designed for educational purposes (to explore practical cryptography and secure communication protocols in a controlled environment).
+This project is a command-line based encrypted chat application written in Python. It allows two users to communicate securely using symmetric AES encryption, with asymmetric RSA/ECC key exchange and digital signatures. The system also demonstrates common attack simulations such as Man-in-the-Middle (MITM) and replay attacks with basic defenses like timestamp verification. The project was designed for educational purposes (to explore practical cryptography and secure communication protocols in a controlled environment).
 
 # Features
 
